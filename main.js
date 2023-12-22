@@ -1,0 +1,5 @@
+$(function() {
+
+    $('.flowers').slick()
+    
+})
